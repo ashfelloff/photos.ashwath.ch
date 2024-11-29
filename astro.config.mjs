@@ -6,7 +6,7 @@ const VERCEL_PREVIEW_SITE =
   process.env.VERCEL_URL &&
   `https://${process.env.VERCEL_URL}`
 
-const site = VERCEL_PREVIEW_SITE || 'https://torn4dom4n.github.io'
+const site = VERCEL_PREVIEW_SITE || 'http://ashwath.ch'
 
 // https://astro.build/config
 export default defineConfig({
