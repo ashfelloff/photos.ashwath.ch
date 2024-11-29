@@ -1,11 +1,11 @@
 {
-  "name": "astro-multiverse",
+  "name": "photos.ashwath.ch",
   "version": "24.9.5",
   "private": true,
   "license": "CCA-3.0",
   "author": {
-    "name": "AREA44",
-    "url": "https://github.com/AREA44/astro-multiverse"
+    "name": "ashwath chandran",
+    "url": "https://github.com/ashfelloff/photos.ashwath.ch"
   },
   "scripts": {
     "build": "astro build",
