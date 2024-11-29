@@ -1,36 +1,22 @@
-# Astro Multiverse
+# photos.ashwath.ch
 
 [![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
 
-Say hello to **Multiverse**, a slick, one-page gallery design with a fully functional lightbox.
+Welcome to **photos.ashwath.ch**, a clean and simple photo gallery where I showcase my photography. The website displays a grid of my photos, each in identical thumbnails. When you click on a thumbnail, it expands to reveal the full-size image in its original aspect ratio.
 
-## Getting Started
+## Run it yourself!
 
-To get started with Astro Multiverse, follow these steps:
+To get started with photos.ashwath.ch, follow these steps:
 
 ```bash
-git clone https://github.com/AREA44/astro-multiverse
-cd astro-multiverse
-pnpm install
-pnpm dev
+git clone https://github.com/your-username/photos.ashwath.ch
+cd photos.ashwath.ch
+npm install
 ```
+# Customize it!
+To customize Photos.Ashwath.Ch, you can change the images in the 'src/assets` directory. Simply add or remove images, and the site will automatically update to reflect your changes.
 
-## How to Customize
+# Credits
+Built with Astro, a static site generator that makes websites fast and optimized. The design uses Tailwind CSS, a utility-first framework that allows for responsive and beautiful layouts with minimal effort.
 
-To customize Astro Multiverse, you can change your images in the `src/assets` directory.
 
-## License
-
-**Multivese** by [HTML5 UP](https://html5up.net). Free for personal and commercial use under the [CCA 3.0](https://html5up.net/license) license.
-
-## Credits
-
-Astro Multiverse uses the following resources:
-
-- Demo images by [Unsplash](https://unsplash.com)
-- [jQuery](https://jquery.com)
-- [Poptrox](https://github.com/ajlkn/jquery.poptrox)
-
-## Contributions
-
-Contributions to Astro Multiverse are welcome! If you have any suggestions or improvements, feel free to create a pull request.
