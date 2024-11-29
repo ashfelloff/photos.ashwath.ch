@@ -14,7 +14,7 @@ cd photos.ashwath.ch
 npm install
 ```
 # Customize it!
-To customize Photos.Ashwath.Ch, you can change the images in the 'src/assets` directory. Simply add or remove images, and the site will automatically update to reflect your changes.
+To customize photos.ashwath.ch, you can change the images in the 'src/assets` directory. Simply add or remove images, and the site will automatically update to reflect your changes.
 
 # Credits
 Built with Astro, a static site generator that makes websites fast and optimized. The design uses Tailwind CSS, a utility-first framework that allows for responsive and beautiful layouts with minimal effort.
